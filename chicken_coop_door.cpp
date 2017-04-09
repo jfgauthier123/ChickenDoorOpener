@@ -27,7 +27,7 @@ String btnStr = "None";
 int current_day;
 int door_opened;
 int door_closed;
-int sunrise; // in minutes from midnight
+int sunrise; // in minutes from midnight blabla
 int sunset;  // in minutes from midnight
 
 int openclose_a = 2;
